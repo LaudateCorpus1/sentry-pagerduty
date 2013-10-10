@@ -1,11 +1,6 @@
 #!/usr/bin/env python
 from setuptools import setup, find_packages
 
-install_requires = [
-    'sentry>=5.3.3'
-    'git+git://github.com/depop/pygerduty.git'
-]
-
 f = open('README.rst')
 readme = f.read()
 f.close()
