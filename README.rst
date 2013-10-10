@@ -1,15 +1,7 @@
 sentry-pagerduty
 ================
 
-A plugin for sentry that enables sending events on to a PagerDuty instance.
-
-Install
--------
-
-Install the package with ``pip``::
-
-    pip install git+git://github.com/depop/sentry-pagerduty.git
-
+Urban Airship private fork of the package sentry-pagerduty.
 
 Configuration
 -------------
