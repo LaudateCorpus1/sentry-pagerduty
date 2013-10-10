@@ -1,6 +1,9 @@
 #!/usr/bin/env python
 from setuptools import setup, find_packages
 
+install_requires = []
+
+
 f = open('README.rst')
 readme = f.read()
 f.close()
